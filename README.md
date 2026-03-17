@@ -19,4 +19,5 @@ This is an end-to-end real-time monitoring platform designed to detect abnormal 
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the app: `streamlit run app.py`
 
- 
+##website link
+https://healthcare-anomaly-detection-euffqwmbcxhocdwirmhmyx.streamlit.app/
